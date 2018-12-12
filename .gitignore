@@ -1,0 +1,6 @@
+*.jpg
+*.txt
+*.png
+.idea
+*.log
+*.checkpoint
